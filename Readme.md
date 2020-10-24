@@ -29,4 +29,4 @@
 
 3.  [JavaScript Info](https://javascript.info/)
 
-4.  [JavaScript](Odin Project)
+4.  [JavaScript Odin Project](https://www.theodinproject.com/courses/javascript)
